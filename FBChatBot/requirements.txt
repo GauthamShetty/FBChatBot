@@ -14,7 +14,7 @@ python-dateutil==1.5
 requests==2.19.1
 six==1.11.0
 stevedore==1.28.0
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.2
